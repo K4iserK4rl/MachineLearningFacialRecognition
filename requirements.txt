@@ -1,0 +1,10 @@
+cv2
+tkinter
+Pillow
+selenium
+requests
+hashlib
+cmake
+dlib
+face_recognition
+imutils
